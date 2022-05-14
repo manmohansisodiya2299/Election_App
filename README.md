@@ -1,0 +1,2 @@
+# Election_App
+Blockchain Based Decentralized application, Used Smart Contract, Solidity  DAPP Structure--> We have one client side app (Front end HTML, CSS, JS) which is connected to Backend (Blockchain, Smart Contract)  App overview --> We have one Election Results Page where we can see candidate id's , Name's, votes. There is select candidate option are available with the help of this we can choose candidate and vote.  Dependanceies --> npm (node js), truffleframework, Ganache, metamask extensions
